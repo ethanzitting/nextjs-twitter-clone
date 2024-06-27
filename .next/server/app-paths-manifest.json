@@ -1,0 +1,7 @@
+{
+  "/(main)/notifications/page": "app/(main)/notifications/page.js",
+  "/(main)/directory/page": "app/(main)/directory/page.js",
+  "/(main)/profile/page": "app/(main)/profile/page.js",
+  "/(main)/settings/page": "app/(main)/settings/page.js",
+  "/(main)/page": "app/(main)/page.js"
+}
